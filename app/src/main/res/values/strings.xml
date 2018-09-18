@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Himachal Guide</string>
+    <string name="cover">Let Take a tour to 4 tourist attractions in India.;)</string>
+    <string name="swipe">swipe>></string>
+    <string name="swipel">swipe</string>
+    <string name="Manali">Manali</string>
+    <string name="mussorie">Mussorie</string>
+    <string name="barot">barot</string>
+    <string name="leh">leh</string>
+    <string name="shimla">Shimla</string>
+
+    <string name="church">1. Church</string>
+    <string name="desc1">
+        This is the second oldest church in North India, and also one of the most
+        famous attractions in the town of Shimla. For those who are in pursuit of peace, this church
+        is a paradise and a perfect place to spend some time alone. The best time to visit here is
+        early in the morning or during the church prayer.\n\n
+        Visiting Time: 8:00 am to 6:00 pm\n
+        Best For: Architecture and history</string>
+    <string name="jakhoo">2. Museum </string>
+    <string name="desc2">This museum is amongst the top places to see in Shimla as it is Himachal’s
+        own Madame Tussauds. Displaying life-sized wax figures of Indian and international icons,
+        this place is an interesting spot to visit with family and even friends.\n\n
+        Visiting Time: 10:00 am to 10:00 pm\n
+        Best For: Wax figurines of famous characters like Harry Potter and Iron Man</string>
+    <string name="museum">3. Jakhoo Temple</string>
+    <string name="desc3">Believed to be the highest peak in Shimla, this hill is 8000 feet high and is a major
+        tourist attraction in Shimla. This temple is a heaven for all the nature lovers and pilgrims
+        who come to visit the historic 108 feet tall Hanuman statue at the Jakhoo temple. \n\n
+        Visiting Time: 7:00 am to 8:00 pm.\n
+        Best For: Trekking</string>
+
+
+    <string name="solang">1. Solang Valley</string>
+    <string name="desc4">Solang is a popular tourist hotspot that is famous for its scenic views,
+        and venturesome activities like trekking in Manali.\n\n
+        Location: Solang Valley, Manali, Himachal Pradesh\n
+        Things To Do: Indulge in activities like cable car ride, helicopter ride,
+        skiing, paragliding, trekking, and zorbing.</string>
+    <string name="pass">2. Chandrakhani Pass</string>
+    <string name="desc5">Leading to the pristine village of Malana, Chandrakhani Pass is one of the
+        most exquisite places to visit in Manali in December. Travelers can opt for an adventurous
+        trek to the Malana village\n\nTrek Difficulty: Moderate\n
+        Starting Point: Naggar Village\n
+        Ideal Duration: 3 Days</string>
+    <string name="temple">3. Gauri Shankar Temple</string>
+    <string name="desc6">Gauri Shankar Temple is another famous Hindu shrine dedicated to Lord Shiva.
+        Located in close proximity to the famous Naggar Castle, this 12th century temple is one of
+        the best places to see in Manali in December where travelers can relish the architectural
+        marvels, and intricate carvings inside its premises.\n\n
+        Location: Naggar Castle Rd, Naggar, Himachal Pradesh\n
+        Timings:5:00 am to pm 12:00 pm and 4:00 to 9:00 pm</string>
+
+
+    <string name="zanskar">1. Zanskar Valley – Amble Among The Giants</string>
+    <string name="desc7">Without a doubt, Zanskar valley is one of the best places to visit in Leh
+        Ladakh. It is amongst the most desolate places in the Himalayan range. The steep terrains
+        covered with snow reflect the heavenly skies.\n\n
+    Best Time to Visit: Zanskar is best visited between June to September when the road is clear of the snow.
+    </string>
+    <string name="kargil">2. Kargil </string>
+    <string name="desc8">A trip to Leh Ladakh is incomplete without a visit to Kargil. This is the
+        second largest town in Ladakh, situated on the banks of Indus River. It is a transit hub with
+        roads leading to Leh, Padum (Zanskar) and Srinagar. Also, it is a haven for adventure
+        enthusiasts as they can enjoy sports such as trekking and mountaineering.\n\n
+        Best Time to visit: The summer season between May to July is the best time to visit Kargil
+    </string>
+    <string name="nubra">3. Nubra Valley- Desert Among The Snowy Hills</string>
+    <string name="desc9">Featured as one of top 5 places in Ladakh, Nubra valley, a tri-armed valley
+        towards the northeast. The sand dunes of the Nubra Valley offer the tourists Arabian Nights
+        like experience. Nubra valley is one of the most famous tourist attractions in Leh Ladakh
+        for its two-humped camels.\n\n
+        Best time to visit: As per the climatic conditions, the best time to visit Nubra valley is during the autumn season</string>
+
+    <string name="fish">1. Trout Fishing</string>
+    <string name="trek">2. Trekking</string>
+    <string name="camp">3. Nature Camping</string>
+    <string name="desc10">Trout fishing is the most popular activity in Barot Valley and attracts a
+        large number of anglers to this place. One has to take prior permission from the Trout farm
+        office for indulging in this activity. </string>
+    <string name="desc11">Barot to Kothi trek is a 13-kilometer trek passing through the cedar and
+        pine forests with such serene surroundings that make travelers forget the complications of
+        life and witness the true colours of nature.</string>
+    <string name="desc12">Barot Valley camping is another major outdoor activity which tourists can
+        indulge into. Thandi Golai camping site is situated 1.5 kilometers away from the main market
+        of Barot. It feels like the most tranquil and undisturbed place.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
