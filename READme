@@ -1,0 +1,5 @@
+This is an app with multiple screens, each of which lists a kind of attraction for a given city, national park, or historical monument. 
+ Design your adapter based on the information you would like to show.
+ he goal is to create a tour guide app which presents relevant information to a user who’s visiting your city.
+ The app can list top attractions, restaurants, public places, or events for the city.
+ It can contain all the best known secrets that only locals know.
